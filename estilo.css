@@ -1,3 +1,15 @@
 #destacado {
     float:right;
 }
+#nav {
+    float:right;
+}
+#body {
+    background-color: bisque;
+}
+#carrito {
+    float: right;
+    border-radius: 100%;
+    background-color: white;
+    padding: 10px;
+}
