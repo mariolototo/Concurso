@@ -18,6 +18,13 @@ img#camisetas{
 }
 div#apertura{
     padding: 5px 10px 5px 10px;
-    margin: 2px;
+    margin: 70px;
+    margin-top: 10px;
     float:left;
+}
+p.title{
+    text-align: center;
+}
+article#FQA{
+    float: right;
 }
