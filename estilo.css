@@ -16,3 +16,8 @@
 img#camisetas{
     border: black 1px solid;
 }
+div#apertura{
+    padding: 5px 10px 5px 10px;
+    margin: 2px;
+    float:left;
+}
